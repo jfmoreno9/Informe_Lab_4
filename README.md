@@ -54,11 +54,11 @@ Ahora tenemos el armado fisico y las tablas con los datos:
 
 5. Video
 
-
+https://youtu.be/P-wnab5Y9Wg
 
 6. Conclusiones
 
-
+Mediante la realización del informe se pudo conocer la ley de voltaje de Kirchhoff para de manera correcta usar los instrumentos de electricidad y electrónica. Se pudo leer las medidas del voltaje y cómo usar distintos elementos mediante el simulador y conocer que son caídas de voltaje.
 
 7. Bibliografía
 Fermin, C. (s.f.). Mindmeister. Obtenido de https://www.mindmeister.com/es/737835621/superposici-n-y-transformaci-n-de-fuentes
